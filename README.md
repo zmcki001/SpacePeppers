@@ -1,5 +1,5 @@
 SpacePeppers
-Created by Zachary McKinney, zackmckinney.com
+Created by Zachary McKinney, http://tech.zackmckinney.com/
 
 For use in the Space Chile Pepper Challenge
 Live/Archive view of the camera with text overlay at:
